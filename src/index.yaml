@@ -1,0 +1,5 @@
+ProjectTitle: stripes
+
+PageList:
+- file: page.html
+  ready: 50
